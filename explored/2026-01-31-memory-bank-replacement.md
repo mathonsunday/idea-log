@@ -1,8 +1,8 @@
 # Memory Bank Replacement for Coding Agents
 
 **Date:** 2026-01-31
-**Status:** parked
-**Tags:** ai-agents, developer-tools, context-management, llms
+**Status:** explored
+**Tags:** ai-agents, developer-tools, context-management, llms, art
 
 ## Summary
 
@@ -25,7 +25,11 @@ A coworker is actively working in this space — converting memory bank content 
 
 ## Decision
 
-Parked. This is an interesting and fast-moving area with real problems to solve, but I'm not personally drawn to working in it right now. A coworker is already actively pursuing the skills-based angle. The dual-audience documentation exploration feels more compelling to me — it's upstream of this problem, since well-structured documentation reduces the context burden in the first place.
+Exploring — but solely as an art project, not as tooling. The technical landscape is interesting source material for interactive fiction: what does it feel like to be a being whose memory is a sliding window? What happens when retrieval is imperfect and you confidently state the wrong thing? These are more compelling to me as dramatic questions than as engineering problems.
+
+A coworker is already actively pursuing the skills-based tooling angle. The dual-audience documentation exploration is upstream of the tooling problem. My interest here is in dramatizing these memory dynamics, not benchmarking them.
+
+**Active project:** [memory-theater](https://github.com/mathonsunday/memory-theater) — an interactive art installation where you converse with a character (Sable) whose memory behaves differently in each "act." Each act implements a different memory architecture from current AI research (sliding context window, episodic memory with retrieval noise, etc.).
 
 ## References
 
