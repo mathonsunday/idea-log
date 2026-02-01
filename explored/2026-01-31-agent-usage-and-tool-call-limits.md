@@ -27,7 +27,7 @@ I'm exploring this from two angles: enterprise applications (governance, cost co
 
 ## Decision
 
-Still early and learning. Interested in both the enterprise governance dimension and the creative/artistic dimension of agent resource scarcity. These feel like two sides of the same coin.
+Still early and learning. Interested in both the enterprise governance dimension and the creative/artistic dimension of agent resource scarcity. 
 
 ## References
 
