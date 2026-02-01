@@ -12,7 +12,7 @@ Documentation that works well for humans doesn't automatically work well for LLM
 
 While looking at how ConsultingMD/omnibus tracks documentation health and maturity (quality scores, canonicity levels, Diataxis form types), the question came up: is documentation that's effective for human reading the same as documentation that's effective for LLMs? Research and industry practice say no — and the divergence is growing.
 
-This feels like a more interesting problem space than the "memory bank replacement" thread. That thread is about efficiently sharing domain knowledge with LLMs so they do the right thing. This thread is about making the documentation itself better for both humans AND coding agents — it's upstream of the memory bank problem.
+This problem space is more personally interesting to me than the "memory bank replacement" thread. That thread is about efficiently sharing domain knowledge with LLMs so they do the right thing. This thread is about making the documentation itself better for both humans AND coding agents — it's upstream of the memory bank problem.
 
 ## Key Observations
 
@@ -25,7 +25,7 @@ This feels like a more interesting problem space than the "memory bank replaceme
 
 ## Decision
 
-Exploring, not building. This sits at the intersection of documentation quality and the shift toward AI-agent-driven developer workflows — worth continuing to learn about.
+Exploring, not currently building. This sits at the intersection of documentation quality and the shift toward AI-agent-driven developer workflows — worth continuing to learn about.
 
 ## References
 
