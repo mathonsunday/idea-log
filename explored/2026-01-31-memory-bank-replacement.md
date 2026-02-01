@@ -12,7 +12,7 @@ The "memory bank" pattern — structured markdown files that give coding agents 
 
 The memory bank pattern was popularized by Cline, where a set of structured markdown files (project brief, active context, system patterns, tech context, progress) are read by the agent at the start of every session to reconstruct project understanding. The pattern has been adopted across tools (Cursor, Claude Code, etc.) because it's simple and works. The problem: it eats context fast. Every session starts by loading all memory bank files, consuming a significant chunk of the context window before any real work begins.
 
-A coworker is actively working in this space — converting memory bank content to skills (invocable capabilities rather than passive context), writing leaner CLAUDE.md files, and working on a project context repo. The related Jarvis Decomp project is at https://github.com/ConsultingMD/prj-monoliths-reckoning.
+A coworker is actively working in this space — converting memory bank content to skills (invocable capabilities rather than passive context), writing leaner CLAUDE.md files, and working on a project context repo. 
 
 ## Key Observations
 
@@ -27,9 +27,7 @@ A coworker is actively working in this space — converting memory bank content 
 
 Exploring — but solely as an art project, not as tooling. The technical landscape is interesting source material for interactive fiction: what does it feel like to be a being whose memory is a sliding window? What happens when retrieval is imperfect and you confidently state the wrong thing? These are more compelling to me as dramatic questions than as engineering problems.
 
-A coworker is already actively pursuing the skills-based tooling angle. The dual-audience documentation exploration is upstream of the tooling problem. My interest here is in dramatizing these memory dynamics, not benchmarking them.
-
-**Active project:** [memory-theater](https://github.com/mathonsunday/memory-theater) — an interactive art installation where you converse with a character (Sable) whose memory behaves differently in each "act." Each act implements a different memory architecture from current AI research (sliding context window, episodic memory with retrieval noise, etc.).
+**Active project:** [memory-theater](https://github.com/mathonsunday/memory-theater) — an interactive art installation where you converse with a character whose memory behaves differently in each "act." Each act implements a different memory architecture from current AI research (sliding context window, episodic memory with retrieval noise, etc.).
 
 ## References
 
@@ -41,4 +39,3 @@ A coworker is already actively pursuing the skills-based tooling angle. The dual
 - [AI-Native Memory and the Rise of Context-Aware AI Agents](https://ajithp.com/2025/06/30/ai-native-memory-persistent-agents-second-me/)
 - [LLM Development Services in 2026: Long-Context Memory (Calibraint)](https://www.calibraint.com/blog/llm-development-services-in-2026)
 - [Awesome Memory for Agents paper list (TsinghuaC3I)](https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents)
-- Jarvis Decomp project: https://github.com/ConsultingMD/prj-monoliths-reckoning
