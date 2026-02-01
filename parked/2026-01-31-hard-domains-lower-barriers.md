@@ -10,7 +10,7 @@ AI coding tools are lowering the barrier to entry for traditionally challenging 
 
 ## Context
 
-With AI coding agents becoming more capable (65% of developers using AI tools weekly per Stack Overflow 2025), there's a general sense that hard things are getting easier. The question: are there historically high-barrier domains that are now genuinely accessible enough to be worth exploring as a side interest?
+With AI coding agents becoming more capable, there's a general sense that hard things are getting easier. The question: are there historically high-barrier domains that are now genuinely accessible enough to be worth exploring as a side interest?
 
 ## Key Observations
 
